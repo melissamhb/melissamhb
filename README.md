@@ -44,14 +44,7 @@
 
 ---
 
-### 📌 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical" alt="Melissa's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Most used languages" height="150"/>
-</p>
-
----
 
 ### 📢 Let's Connect!
 
